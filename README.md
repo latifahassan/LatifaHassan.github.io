@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 
-<html>
-  <head>
-    <title>Harriet Tubman</title>
-         <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
+<html
     <main id="main">
+    <link rel="stylesheet" href="styles.css" />
   <div class="text-center" id="title-div">
     <h1 id="title">Harriet Tubman</h1>
     <i>The woman you inspired and gave hope to many</i>
