@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #white;  
+}
+ul {
+	text-align: left;
+	width: 70vw;
+	margin-left: 2vw;
+  list-style: circle;
+}
+
+li {
+	margin-bottom: 1.7rem;
+	padding: 0;
+}
+#image {
+  width: 96%;
+  height: auto;
+	max-width: 100%;
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
