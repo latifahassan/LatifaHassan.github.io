@@ -7,7 +7,7 @@
     <h1 id="title">Harriet Tubman</h1>
     <i>The woman you inspired and gave hope to many</i>
   </div>
-    <br>
+  <br>
   <div id="img-div">
     <figure>
       <img src="https://www-images.christianitytoday.com/images/67217.jpg?h=393&w=700" height="auto" width="700" id="image">
