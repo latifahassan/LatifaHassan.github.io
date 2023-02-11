@@ -17,6 +17,7 @@
   <div>
     <div class="text-left" id="tribute-info"
          <h2><b>A timeline of Harriet Tubmans life:</h2></b>
+	 <br>
   <ul>
     <font size="4">
     <li><b>1822</b>-Harriet Tubman was born as Araminta (Minty) Ross to Ben Ross and Harriet Green.Both were enslaved at the Edward Bordess Plantation in Dorchester County, Maryland,USA.She was one of nine children but most were sold to other plantations.</li>
