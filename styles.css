@@ -8,12 +8,13 @@ body {
 ul {
 	text-align: justify;
 	width: 69vw;
-	margin-left: 2vw;
+	margin: auto;
   list-style: circle;
 }
 
 li {
 	margin-bottom: 1.7rem;
+  margin-right:3vw;
 	padding: 0;
 }
 #image {
@@ -21,6 +22,5 @@ li {
   height: auto;
 	max-width: 100%;
 	display:block;
-	margin-right: auto;
-	margin-left: auto;
+	margin: auto;
 }
