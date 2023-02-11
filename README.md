@@ -17,9 +17,9 @@
   <div>
     <div class="text-left" id="tribute-info"
          <h2><b>A timeline of Harriet Tubmans life:</h2></b>
-	 <br>
   <ul>
     <font size="4">
+	    <br>
     <li><b>1822</b>-Harriet Tubman was born as Araminta (Minty) Ross to Ben Ross and Harriet Green.Both were enslaved at the Edward Bordess Plantation in Dorchester County, Maryland,USA.She was one of nine children but most were sold to other plantations.</li>
     <li><b>1828</b>- At this point she is 6 years old and her master Edward deemed her old enough to work. She was borrowed by a couple and she started off weaving. She suffered alot with frequent beatings for the slightest errors.</li>
   <li><b>1833</b>- When she turned 11 she started to wear a yellow bandana made out of cotton which was a tradition acrooss most plantations. This symbolised that she was no longeer a child and was no longer called Araminta but as Harriet after her mother.</li>
