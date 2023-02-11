@@ -2,6 +2,7 @@
   <div class="text-center" id="title-div">
     <h1 id="title">Harriet Tubman</h1>
     <i>The woman you inspired and gave hope to many</i>
+	  <link rel="stylesheet" href="styles.css" />
   </div>
     <br>
   <div id="img-div">
